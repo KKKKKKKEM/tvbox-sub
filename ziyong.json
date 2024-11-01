@@ -4,15 +4,6 @@
     "logo": "https://gitee.com/xuebikj/touxiang/blob/master/Image_63409635764803.jpg",
     "sites": [
         {
-            "key": "豆豆",
-            "name": "🌕️豆瓣┃首页┃推荐",
-            "type": 3,
-            "api": "csp_DouDou",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0
-        },
-        {
             "key": "hipy_js_腾云驾雾[官]",
             "name": "🌀腾讯解析┃4K纯净",
             "type": 3,
